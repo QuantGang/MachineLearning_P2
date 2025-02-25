@@ -6,4 +6,4 @@ In this ML session, we treat topics such as:
 - Boosting
 - Learning parametric models by several optimisation algorithms
 
-Here we consider modelling the number of rides each hour for a bike rental company; we also create and test a spam e-mails filter, and try to estimate the number of bidders at an eBay auction of coins.
+Here we consider modelling the number of rides each hour for a bike rental company; we also create and test a spam e-mails filter, and try to estimate the number of bidders at an eBay auction of coins. Link to access this project: [ML_Session](https://quantgang.github.io/MachineLearning_P2/)  
